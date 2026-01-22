@@ -1,0 +1,9 @@
+{
+	"name": "dataproctored",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ff93b3e7-6026-481c-a5b4-6a9f24ecfa1c",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
